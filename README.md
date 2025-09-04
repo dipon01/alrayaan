@@ -128,13 +128,13 @@
                 Travel in comfort and style in my well-maintained vehicle.
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                <img src="image0.jpeg" alt="Interior view of the van's last row" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
-                <img src="image1.jpeg" alt="Interior view of the van's middle row" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
-                <img src="image2.jpeg" alt="Interior view from the front passenger seat" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image6.jpeg" alt="Interior view of the van's last row" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image5.jpeg" alt="Interior view of the van's middle row" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image4.jpeg" alt="Interior view from the front passenger seat" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
                 <img src="image3.jpeg" alt="Interior view of the dashboard and steering wheel" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
-                <img src="image4.jpeg" alt="Rear view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
-                <img src="image5.jpeg" alt="Front view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
-                <img src="image6.jpeg" alt="Side view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image2.jpeg" alt="Rear view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image1.jpeg" alt="Front view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
+                <img src="image0.jpeg" alt="Side view of the van" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
             </div>
         </div>
     </section>
