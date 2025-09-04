@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Al Rayaan Transportation, LLC</title>
+    <title>Al Rayyan Transportation, LLC</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -41,7 +41,7 @@
     <!-- Header with Navigation -->
     <header id="top" class="bg-white/80 backdrop-blur-sm p-4 rounded-b-xl shadow-lg w-full sticky top-0 z-50">
         <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
-            <h1 class="text-2xl font-bold text-gray-900 mb-2 md:mb-0">Al Rayaan Transportation, LLC</h1>
+            <h1 class="text-2xl font-bold text-gray-900 mb-2 md:mb-0">Al Rayyan Transportation, LLC</h1>
             
             <nav class="flex flex-wrap justify-center gap-2 mt-2 md:mt-0">
                 <a href="#book-now" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Home</a>
@@ -113,9 +113,9 @@
     <!-- About Section -->
     <section id="about" class="py-16 px-4 bg-gray-50">
         <div class="container mx-auto max-w-4xl text-center">
-            <h2 class="text-4xl font-bold text-gray-900 mb-6">About Al Rayaan Transportation</h2>
+            <h2 class="text-4xl font-bold text-gray-900 mb-6">About Al Rayyan Transportation</h2>
             <p class="text-gray-700 text-lg leading-relaxed">
-                Al Rayaan Transportation is your premier partner for reliable and comfortable private transportation in Central Florida. As the owner and sole operator, I am dedicated to providing a safe and stress-free experience for families and travelers in my top-of-the-line vehicle. My commitment to punctuality, professionalism, and impeccable customer service ensures your journey is as smooth as your destination. I believe that your travel experience should be effortless, which is why I offer transparent pricing and personalized service to meet your needs. Let me take the wheel while you sit back and enjoy the ride.
+                Al Rayyan Transportation is your premier partner for reliable and comfortable private transportation in Central Florida. As the owner and sole operator, I am dedicated to providing a safe and stress-free experience for families and travelers in my top-of-the-line vehicle. My commitment to punctuality, professionalism, and impeccable customer service ensures your journey is as smooth as your destination. I believe that your travel experience should be effortless, which is why I offer transparent pricing and personalized service to meet your needs. Let me take the wheel while you sit back and enjoy the ride.
             </p>
         </div>
     </section>
@@ -142,10 +142,10 @@
     <!-- Rates Section -->
     <section id="rates" class="bg-white py-16 px-4">
         <div class="container mx-auto max-w-4xl">
-            <h2 class="text-4xl font-bold text-gray-900 text-center mb-6">Al Rayaan Rate</h2>
+            <h2 class="text-4xl font-bold text-gray-900 text-center mb-6">Al Rayyan Rate</h2>
             <div class="prose max-w-none text-center">
                 <p>
-                    Looking for premium Orlando transportation services? Al Rayaan Transportation offers a seamless and stress-free travel experience across Central Florida. We specialize in reliable Disney World transportation, hassle-free MCO airport transfers, and efficient Port Canaveral transportation, with tailored options for every need.
+                    Looking for premium Orlando transportation services? Al Rayyan Transportation offers a seamless and stress-free travel experience across Central Florida. We specialize in reliable Disney World transportation, hassle-free MCO airport transfers, and efficient Port Canaveral transportation, with tailored options for every need.
                 </p>
                 <p>
                     Our highly-rated transportation solutions prioritize your comfort, safety, and style, ensuring a smooth journey every time. Enjoy top-tier service without breaking the bank thanks to our affordable pricing.
@@ -154,7 +154,7 @@
                     Traveling with family? We provide complimentary child restraint devices, including car seats and booster seats, for your little ones' safety and peace of mind.
                 </p>
                 <p>
-                    Choose Al Rayaan Transportation for dependable, budget-friendly, and family-friendly travel services in Orlando. Experience the difference of a truly premium ride!
+                    Choose Al Rayyan Transportation for dependable, budget-friendly, and family-friendly travel services in Orlando. Experience the difference of a truly premium ride!
                 </p>
             </div>
             <div class="mt-12 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 text-center">
@@ -163,7 +163,7 @@
                     <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Walt Disney World Resort Area</h4>
                     <ul class="mt-4 space-y-2">
                         <li>
-                            <p class="text-lg font-medium text-gray-700">Al Rayaan Exclusive</p>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
                             <p class="text-blue-600 font-bold">Starting at $95 Each Way</p>
                         </li>
                     </ul>
@@ -173,7 +173,7 @@
                     <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Universal Orlando Resort Area</h4>
                     <ul class="mt-4 space-y-2">
                         <li>
-                            <p class="text-lg font-medium text-gray-700">Al Rayaan Exclusive</p>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
                             <p class="text-blue-600 font-bold">Starting at $95 Each Way</p>
                         </li>
                     </ul>
@@ -183,7 +183,7 @@
                     <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Port Canaveral</h4>
                     <ul class="mt-4 space-y-2">
                         <li>
-                            <p class="text-lg font-medium text-gray-700">Al Rayaan Exclusive</p>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
                             <p class="text-blue-600 font-bold">Starting at $160 Each Way</p>
                         </li>
                     </ul>
@@ -193,7 +193,7 @@
                     <h4 class="text-xl font-bold text-gray-900 mb-2">Walt Disney World Resort Area to<br>Port Canaveral</h4>
                     <ul class="mt-4 space-y-2">
                         <li>
-                            <p class="text-lg font-medium text-gray-700">Al Rayaan Exclusive</p>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
                             <p class="text-blue-600 font-bold">Starting at $195 Each Way</p>
                         </li>
                     </ul>
@@ -205,8 +205,8 @@
     <!-- Footer -->
     <footer class="bg-gray-900 text-white py-8">
         <div class="container mx-auto text-center">
-            <p>&copy; 2024 Al Rayaan Transportation, LLC. All rights reserved.</p>
-            <p class="text-sm mt-2">Designed and Developed by Al Rayaan Transportation</p>
+            <p>&copy; 2024 Al Rayyan Transportation, LLC. All rights reserved.</p>
+            <p class="text-sm mt-2">Designed and Developed by Al Rayyan Transportation</p>
         </div>
     </footer>
 
