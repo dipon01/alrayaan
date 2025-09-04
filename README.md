@@ -113,7 +113,7 @@
     <!-- About Section -->
     <section id="about" class="py-16 px-4">
         <div class="container mx-auto max-w-4xl text-center">
-            <h2 class="text-4xl font-bold text-gray-900 mb-6">About Al Rayaan Transportation</h2>
+            <h2 class="text-4xl font-bold text-white-900 mb-6">About Al Rayaan Transportation</h2>
             <p class="text-white-700 text-lg leading-relaxed">
                 Al Rayaan Transportation is your premier partner for reliable and comfortable private transportation in Central Florida. We specialize in providing a safe and stress-free experience for families and travelers. Our commitment to punctuality, professionalism, and impeccable customer service ensures your journey is as smooth as your destination. We believe that your travel experience should be effortless, which is why we offer transparent pricing and a dedicated team ready to meet your needs. Let us take the wheel while you sit back and enjoy the ride.
             </p>
