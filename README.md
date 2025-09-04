@@ -46,7 +46,7 @@
             <nav class="flex flex-wrap justify-center gap-2 mt-2 md:mt-0">
                 <a href="#book-now" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Home</a>
                 <a href="#about" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">About</a>
-                <a href="#fleet" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Our Fleet</a>
+                <a href="#fleet" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">My Vehicle</a>
                 <a href="#rates" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Rates</a>
             </nav>
         </div>
@@ -115,7 +115,7 @@
         <div class="container mx-auto max-w-4xl text-center">
             <h2 class="text-4xl font-bold text-gray-900 mb-6">About Al Rayaan Transportation</h2>
             <p class="text-gray-700 text-lg leading-relaxed">
-                Al Rayaan Transportation is your premier partner for reliable and comfortable private transportation in Central Florida. We specialize in providing a safe and stress-free experience for families and travelers. Our commitment to punctuality, professionalism, and impeccable customer service ensures your journey is as smooth as your destination. We believe that your travel experience should be effortless, which is why we offer transparent pricing and a dedicated team ready to meet your needs. Let us take the wheel while you sit back and enjoy the ride.
+                Al Rayaan Transportation is your premier partner for reliable and comfortable private transportation in Central Florida. As the owner and sole operator, I am dedicated to providing a safe and stress-free experience for families and travelers in my top-of-the-line vehicle. My commitment to punctuality, professionalism, and impeccable customer service ensures your journey is as smooth as your destination. I believe that your travel experience should be effortless, which is why I offer transparent pricing and personalized service to meet your needs. Let me take the wheel while you sit back and enjoy the ride.
             </p>
         </div>
     </section>
@@ -123,9 +123,9 @@
     <!-- Our Fleet Section -->
     <section id="fleet" class="py-16 px-4 bg-gray-50">
         <div class="container mx-auto max-w-4xl">
-            <h2 class="text-4xl font-bold text-gray-900 text-center mb-6">Our Fleet</h2>
+            <h2 class="text-4xl font-bold text-gray-900 text-center mb-6">My Vehicle</h2>
             <p class="text-gray-700 text-lg text-center mb-8">
-                Travel in comfort and style in our well-maintained vehicles.
+                Travel in comfort and style in my well-maintained vehicle.
             </p>
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
                 <img src="image0.jpeg" alt="Interior view of the van's last row" class="w-full h-auto rounded-xl shadow-md transform hover:scale-105 transition-transform duration-300 cursor-pointer" loading="lazy">
