@@ -39,17 +39,17 @@
 <body>
 
     <!-- Header with Navigation -->
-<header id="top" class="bg-white/80 backdrop-blur-sm p-2 md:p-4 rounded-b-xl shadow-lg w-full sticky top-0 z-50">
-  <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
-    <h1 class="text-xl md:text-2xl font-bold text-gray-900 mb-2 md:mb-0">Al Rayyan Transportation, LLC</h1>
-    <nav class="flex flex-wrap justify-center gap-2 mt-2 md:mt-0">
-      <a href="#book-now" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Home</a>
-      <a href="#about" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">About</a>
-      <a href="#fleet" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">My Vehicle</a>
-      <a href="#rates" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Rates</a>
-    </nav>
-  </div>
-</header>
+    <header id="top" class="bg-white/80 backdrop-blur-sm p-2 md:p-4 rounded-b-xl shadow-lg w-full sticky top-0 z-50">
+      <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
+        <h1 class="text-xl md:text-2xl font-bold text-gray-900 mb-2 md:mb-0">Al Rayyan Transportation, LLC</h1>
+        <nav class="flex flex-wrap justify-center gap-2 mt-2 md:mt-0">
+          <a href="#book-now" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Home</a>
+          <a href="#about" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">About</a>
+          <a href="#fleet" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">My Vehicle</a>
+          <a href="#rates" class="px-4 py-2 rounded-lg text-gray-700 font-medium hover:bg-gray-200 transition-colors duration-200">Rates</a>
+        </nav>
+      </div>
+    </header>
 
     <!-- Book Now Section -->
     <section id="book-now" class="min-h-screen flex items-center justify-center py-16 px-4">
