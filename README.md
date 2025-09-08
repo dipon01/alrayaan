@@ -151,9 +151,6 @@
                     Our highly-rated transportation solutions prioritize your comfort, safety, and style, ensuring a smooth journey every time. Enjoy top-tier service without breaking the bank thanks to our affordable pricing.
                 </p>
                 <p>
-                    Traveling with family? We provide complimentary child restraint devices, including car seats and booster seats, for your little ones' safety and peace of mind.
-                </p>
-                <p>
                     Choose Al Rayyan Transportation for dependable, budget-friendly, and family-friendly travel services in Orlando. Experience the difference of a truly premium ride!
                 </p>
             </div>
@@ -164,7 +161,7 @@
                     <ul class="mt-4 space-y-2">
                         <li>
                             <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
-                            <p class="text-blue-600 font-bold">Starting at $95 Each Way</p>
+                            <p class="text-blue-600 font-bold">Starting at $60 Each Way</p>
                         </li>
                     </ul>
                 </div>
@@ -174,17 +171,40 @@
                     <ul class="mt-4 space-y-2">
                         <li>
                             <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
-                            <p class="text-blue-600 font-bold">Starting at $95 Each Way</p>
+                            <p class="text-blue-600 font-bold">Starting at $50 Each Way</p>
                         </li>
                     </ul>
                 </div>
+
+                 <!-- MCO to Downtown Orlando -->
+                <div class="bg-gray-100 p-6 rounded-lg shadow-md">
+                    <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Downtown Orlando</h4>
+                    <ul class="mt-4 space-y-2">
+                        <li>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
+                            <p class="text-blue-600 font-bold">Starting at $40 Each Way</p>
+                        </li>
+                    </ul>
+                </div>
+
+                 <!-- MCO to Champions Gate -->
+                <div class="bg-gray-100 p-6 rounded-lg shadow-md">
+                    <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Champions Gate</h4>
+                    <ul class="mt-4 space-y-2">
+                        <li>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
+                            <p class="text-blue-600 font-bold">Starting at $75 Each Way</p>
+                        </li>
+                    </ul>
+                </div>
+                
                 <!-- Orlando to Port Canaveral -->
                 <div class="bg-gray-100 p-6 rounded-lg shadow-md">
                     <h4 class="text-xl font-bold text-gray-900 mb-2">Orlando International Airport to<br>Port Canaveral</h4>
                     <ul class="mt-4 space-y-2">
                         <li>
                             <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
-                            <p class="text-blue-600 font-bold">Starting at $160 Each Way</p>
+                            <p class="text-blue-600 font-bold">Starting at $90 Each Way</p>
                         </li>
                     </ul>
                 </div>
@@ -194,7 +214,18 @@
                     <ul class="mt-4 space-y-2">
                         <li>
                             <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
-                            <p class="text-blue-600 font-bold">Starting at $195 Each Way</p>
+                            <p class="text-blue-600 font-bold">Starting at $120 Each Way</p>
+                        </li>
+                    </ul>
+                </div>
+
+                 <!-- Disney to Sanford Internaltion -->
+                <div class="bg-gray-100 p-6 rounded-lg shadow-md">
+                    <h4 class="text-xl font-bold text-gray-900 mb-2">Disney to<br>Sanford International Airport</h4>
+                    <ul class="mt-4 space-y-2">
+                        <li>
+                            <p class="text-lg font-medium text-gray-700">Al Rayyan Exclusive</p>
+                            <p class="text-blue-600 font-bold">Starting at $90 Each Way</p>
                         </li>
                     </ul>
                 </div>
