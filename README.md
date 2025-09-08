@@ -39,7 +39,7 @@
 <body>
 
     <!-- Header with Navigation -->
-    <header id="top" class="bg-white/80 backdrop-blur-sm p-4 rounded-b-xl shadow-lg w-full sticky top-0 z-50">
+    <header id="top" class="bg-white/80 backdrop-blur-sm p-4 rounded-b-xl shadow-lg w-full md:sticky top-0 z-50">
         <div class="container mx-auto flex flex-col md:flex-row items-center justify-between">
             <h1 class="text-2xl font-bold text-gray-900 mb-2 md:mb-0">Al Rayyan Transportation, LLC</h1>
             
